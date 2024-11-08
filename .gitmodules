@@ -1,0 +1,6 @@
+[submodule "carby-backend"]
+	path = carby-backend
+	url = https://github.com/GaelVbn/Carby.git
+[submodule "carby-frontend"]
+	path = carby-frontend
+	url = https://github.com/GaelVbn/Carby.git
